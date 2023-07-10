@@ -9,7 +9,7 @@ To start the game you need to:
 
 3. Copy the files to the libraries/Tetris directory of your installed Arduino IDE program.
 
-4. Open the sketch in the Arduino IDE program, located in the file examples/Tetris/Tetris.into. Compile and upload the sketch to your board.
+4. Open the sketch in the Arduino IDE program, located in the file examples/Tetris/Tetris.ino. Compile and upload the sketch to your board.
 
 5. Launch the terminal emulator, configure it on the Serial port of your board (in my case it is COM5), communication parameters 9600,8,N,1.
 
