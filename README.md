@@ -15,4 +15,4 @@ To start the game you need to:
 
 6. Press the Reset button of your board if the reset was not performed automatically when connecting the port in the terminal emulator.
 
-7. Enjoy.
+7. Have fun.
